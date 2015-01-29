@@ -1,6 +1,6 @@
 # Eaternet::Adapters
 
-**We want to get the entire world's restaurant health inspections online,**
+**We're bringing the whole world's restaurant health inspections online,**
 into as many sites and apps as possible.
 
 **The plan in a nutshell:** each agency which inspects restaurants can have an "adapter".
