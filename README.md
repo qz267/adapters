@@ -27,9 +27,14 @@ Support for any language will possible.
 
 ## Contributing
 
-Write an adapter for your city's restaurant health scores. Or do a small refactor or add
-documentation. We're happy to get the help:
+Lots of ways to help:
+
+* Critique a PR, even a closed one.
+* Do a small refactor.
+* Add documentation. 
+* Write an adapter for your city's restaurant health scores. 
+
 
 * [Ruby code](https://github.com/eaternet/adapters-ruby)
 * [Python code](https://github.com/eaternet/adapters-python)
-* More languages are welcome.
+* More languages are welcome. Drop us a line: info@eaternet.io.
