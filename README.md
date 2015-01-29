@@ -9,24 +9,11 @@ data and do analysis and work with it how they like. [Eaternet](http://eaternet.
 adapters to pull and publish the information daily on our website and in feeds to partner organizations.
 
 
-## Usage
-
-Here's a script which prints all the restaurant names in the Southern Nevada Health District:
-
-```ruby
-require 'eaternet/adapters'
-
-vegas = Eaternet::Adapters::Snhd.new()
-vegas.businesses.each do |biz|
-  puts biz.name
-end
-```
-
 ## Roadmap
 
 Here's how we're going to get the whole world's data online:
 
-Phase 1: **Finish open-sourcing** Eaternet's adapter framework (in progress). This will include several
+Phase 1: **Finish open-sourcing** Eaternet's [Ruby adapter framework](https://github.com/eaternet/adapters-ruby) (in progress). This will include several
 adapters to provide examples for different source data types (csv, web scraping, etc.).
 
 Phase 2: **Second-stage conversion** code will be open-sourced. E.g., converting the Phase 1 results to a [LIVES](http://www.yelp.com/healthscores)-compatible format.
