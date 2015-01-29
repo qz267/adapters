@@ -34,6 +34,7 @@ Lots of ways to help:
 * Add documentation. 
 * Write an adapter for your city's restaurant health scores. 
 
+Our Ruby code is currently the most mature:
 
 * [Ruby code](https://github.com/eaternet/adapters-ruby)
 * [Python code](https://github.com/eaternet/adapters-python)
