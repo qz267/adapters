@@ -1,4 +1,4 @@
-# Eaternet::Adapters
+# Eaternet Adapters
 
 **We're bringing the whole world's restaurant health inspections online,**
 into as many sites and apps as possible.
