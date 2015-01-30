@@ -20,7 +20,7 @@ Phase 2: **Second-stage conversion** code will be open-sourced. E.g., converting
 
 Phase 3: **Python support**. The framework will be translated to Python. We're starting [the codebase](https://github.com/eaternet/adapters-python) now. 
 Cross-language support will be enabled by executing all adapters
-in a seperate VM, exporting their results (possibly as [MessagePack](http://msgpack.org)) to storage. The
+in a seperate VM, exporting their results (probably as [MessagePack](http://msgpack.org) or [ProtoBufs](http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/)) to storage. The
 adapter-runner will then notify the app via a queue that there is data ready to be imported.
 Support for any language will possible.
 
