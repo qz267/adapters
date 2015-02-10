@@ -38,4 +38,5 @@ Our Ruby code is currently the most mature:
 
 * [Ruby code](https://github.com/eaternet/adapters-ruby)
 * [Python code](https://github.com/eaternet/adapters-python)
+* [Java code](https://github.com/eaternet/adapters-java)
 * More languages are welcome. Drop us a line: info@eaternet.io.
