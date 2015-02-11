@@ -18,7 +18,8 @@ adapters to provide examples for different source data types (csv, web scraping,
 
 Phase 2: **Second-stage conversion** code will be open-sourced. E.g., converting the Phase 1 results to a [LIVES](http://www.yelp.com/healthscores)-compatible format.
 
-Phase 3: **Python support**. The framework will be translated to Python. We're starting [the codebase](https://github.com/eaternet/adapters-python) now. 
+Phase 3: **Multi-language support**. The framework will be translated to Python, Java, and possibly others. 
+We're starting [the codebase](https://github.com/eaternet/adapters-python) now. 
 Cross-language support will be enabled by executing all adapters
 in a separate VM, exporting their results (probably as [MessagePack](http://msgpack.org) or [ProtoBufs](http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/)) to storage. The
 adapter-runner will then notify the app via a queue that there is data ready to be imported.
