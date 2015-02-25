@@ -8,6 +8,17 @@ Its adapter converts its source format into a simple, standard one which we defi
 data and do analysis and work with it how they like. [Eaternet](http://eaternet.io/), in particular, will use the production-ready 
 adapters to pull and publish the information daily on our website and in feeds to partner organizations.
 
+## Current Status, Phase 1
+
+| Area              | Python   | Ruby        |
+|-------------------|----------|-------------|
+| Las Vegas         | Finished | [Finished](https://github.com/eaternet/adapters-ruby/blob/master/lib/eaternet/adapters/agencies/snhd.rb)    |
+| New York City     |          | In progress |
+| Portland, OR, USA |          | In progress |
+| United Kingdom    |          |             |
+| Denmark           |          |             |
+
+
 
 ## Roadmap
 
