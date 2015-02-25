@@ -10,7 +10,7 @@ adapters to pull and publish the information daily on our website and in feeds t
 
 ## Status
 
-| Area              | Python   | Ruby        |
+|                   | Python   | Ruby        |
 |-------------------|----------|-------------|
 | Las Vegas         | [Done](https://github.com/eaternet/adapters-python/blob/master/eaternet/adapters/agencies/snhd.py) | [Done](https://github.com/eaternet/adapters-ruby/blob/master/lib/eaternet/adapters/agencies/snhd.rb)    |
 | New York City     |          | [In progress](https://github.com/eaternet/adapters-ruby/pull/8) |
