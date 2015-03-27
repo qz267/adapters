@@ -13,7 +13,7 @@ adapters to pull and publish the information daily on our website and in feeds t
 |                   | Python   | Ruby        |
 |-------------------|----------|-------------|
 | Las Vegas         | [Done](https://github.com/eaternet/adapters-python/blob/master/eaternet/adapters/agencies/snhd.py) | [Done](https://github.com/eaternet/adapters-ruby/blob/master/lib/eaternet/adapters/agencies/snhd.rb)    |
-| New York City     |          | [In progress](https://github.com/eaternet/adapters-ruby/pull/8), [Wiki page](https://github.com/eaternet/adapters/wiki/Agency-Notes:-New-York-City) |
+| New York City     |          | [In progress](https://github.com/eaternet/adapters-ruby/pull/8), [Wiki page](https://github.com/eaternet/adapters/wiki/Agency:-New-York-City) |
 | Portland, OR, USA |          | In progress, [Live on prototype website](https://eaternet.io) |
 | United Kingdom    |          |             |
 | Denmark           |          |             |
